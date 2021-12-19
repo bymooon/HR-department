@@ -1,4 +1,0 @@
-1. https://shwanoff.ru/enum/
-2. https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/builtin-types/enum
-3. https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to?pivots=dotnet-5-0
-4. 
