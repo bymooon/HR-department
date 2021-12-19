@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DAL">
+      <HintPath>..\DAL\bin\Debug\net5.0\DAL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
